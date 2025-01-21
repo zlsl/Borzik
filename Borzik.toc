@@ -1,0 +1,11 @@
+## Interface: 50400
+## Title: Borzik
+## Version: 0.0.1
+## Notes: Hmmmm
+## Creator: ZLSL
+## Author: ZLSL
+## SavedVariables: BorzikDB
+
+embeds.xml
+Borzik.lua
+Libs/IconClass.lua

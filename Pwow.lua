@@ -1,0 +1,41 @@
+pwowDB = {
+["Agarn"]={
+["id"]="100020", 
+["guid"]="0x01800000000186B4", 
+["class"]="WARRIOR", 
+["race"]="", 
+["guild"]="По\ закону\ Орды", 
+["guildrank"]="", 
+["acount"]=8195, 
+["is_gm"]=None, 
+["kills"]=37, 
+["ilvl"]=501, 
+["uniq_id"]=None
+}, 
+["Bablodin"]={
+["id"]="100025", 
+["guid"]="0x01800000000186B9", 
+["class"]="PALADIN", 
+["race"]="", 
+["guild"]="FATALITY", 
+["guildrank"]="", 
+["acount"]=10, 
+["is_gm"]=false, 
+["kills"]=0, 
+["ilvl"]=0, 
+["uniq_id"]=None
+}, 
+["Detroit"]={
+["id"]="100088", 
+["guid"]="0x01800000000186F8", 
+["class"]="", 
+["race"]="", 
+["guild"]="По\ закону\ Орды", 
+["guildrank"]="", 
+["acount"]=1225, 
+["is_gm"]=None, 
+["kills"]=33, 
+["ilvl"]=500, 
+["uniq_id"]=None
+} 
+}
